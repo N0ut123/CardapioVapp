@@ -1,8 +1,8 @@
 cardapio digital
 
 tecnologia usada:
-Node.js
-Expo
+Node.js,
+Expo,
 react-native
 
 
