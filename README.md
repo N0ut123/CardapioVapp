@@ -5,6 +5,7 @@ Node.js
 Expo
 react-native
 
+
 Introdução
 Instale o expo, Instale o Node js e instale o react-native 
 Execute o comando neste arquivo:npm install expo 
